@@ -1,4 +1,4 @@
 
 **Interactive-Tunisia-Map-Application**
 
-Displaying Interactive Tunisia Map using React-Leaflet with all its 24 districts in a dynamic Map.
+Displaying Interactive Tunisia Map using React-Leaflet with all its 24 districts in a dynamic Map with 80% of accuracy.
